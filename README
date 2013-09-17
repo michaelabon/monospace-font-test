@@ -1,0 +1,25 @@
+Instructions
+============
+
+Open the other file with your favourite text editor.
+
+Make sure you are using a monospace font.
+
+What to look for
+================
+
+- Can you distinguish between O and 0? Between 1, l, I, and L?
+- Do you like the look of the math? How about the regex?
+- Do matching sets of punctuation line up/
+
+Purpose
+=======
+
+This is not intended to compile or execute. This is intended to
+offer an example of common programming languages so that you
+may evaluate which font you prefer to use when you code.
+
+Improvements
+============
+
+Want to add a line or two? Feel free. Fork it. Make a pull request.
